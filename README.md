@@ -1,6 +1,6 @@
 # Snake-Game 🐍
 
-![A cute kitten](https://user-images.githubusercontent.com/71856519/115091545-28de6280-9eee-11eb-92bf-df3d76f1bf71.png)
+![Screenshot](https://user-images.githubusercontent.com/71856519/115091545-28de6280-9eee-11eb-92bf-df3d76f1bf71.png)
 
 > Status: Complete ✔️ 
 # Functionalities

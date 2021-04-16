@@ -1,5 +1,5 @@
 # Snake-Game 🐍
-![Screenshot_3](https://user-images.githubusercontent.com/71856519/115091545-28de6280-9eee-11eb-92bf-df3d76f1bf71.png)
+<div align="center">![Screenshot_3](https://user-images.githubusercontent.com/71856519/115091545-28de6280-9eee-11eb-92bf-df3d76f1bf71.png)</div>
 
 > Status: Complete ✔️ 
 # Functionalities
